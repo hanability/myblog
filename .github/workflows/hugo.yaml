@@ -34,4 +34,4 @@ jobs:
           external_repository: hanability/hanability.github.io # 指定目标仓库
           publish_dir: ./public
           publish_branch: main # 指定目标分支
-          cname: hana.com # 如果你有自定义域名
+          # cname: hana.com # 如果你有自定义域名
